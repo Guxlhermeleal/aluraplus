@@ -58,8 +58,9 @@ body{
     .container__titulo{
         font-size: 28px;
         font-weight: 700;
+        margin: 1em 0;
     }
-    .container__imamgem{
+    .container__imagem{
         margin: 1em 0 2em 0;
     }
     .container__caixa{
